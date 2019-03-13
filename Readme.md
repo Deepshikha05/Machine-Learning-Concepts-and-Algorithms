@@ -7,3 +7,4 @@
 - Naive Bayes Algorithm
 - K Means Classification Algorithm
 - KNN Algorithm
+- Types of Bias
