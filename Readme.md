@@ -8,3 +8,11 @@
 - K Means Classification Algorithm
 - KNN Algorithm
 - Types of Bias
+- Email Spam Filtering 
+- SMS Spam Filtering 
+- Logistic Regression 
+- N-Gram Implementation 
+- N-Gram Vectors
+- Sequence Vectors
+- Bag of Words Model
+- Types of Bias
