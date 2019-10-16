@@ -16,3 +16,4 @@
 - Sequence Vectors
 - Bag of Words Model
 - Types of Bias
+- Scraping Images
