@@ -1,19 +1,33 @@
 # Machine Learning Concepts and Algorithms
 
-- Exploring different Plotting Libraries
-- Baseline Machine Learning Algorithm 
-	- Random Rule Algorithm 
-	- Zero Rule Algorithm
-- Naive Bayes Algorithm
-- K Means Classification Algorithm
-- KNN Algorithm
-- Types of Bias
-- Email Spam Filtering 
-- SMS Spam Filtering 
-- Logistic Regression 
-- N-Gram Implementation 
-- N-Gram Vectors
-- Sequence Vectors
-- Bag of Words Model
-- Types of Bias
-- Scraping Images
+Classification Techniques
+    - KNN Algorithm
+    - K Means Classification Algorithm 
+    - Naive Bayes Algorithm 
+    - Logistic Regression
+    - Decision Trees
+
+Natural Language Processing 
+    - Bag of Words Model 
+    - N-Gram Model
+    - Text Classification 
+
+Scraping 
+    - Scraping Images
+
+Spam Filtering
+    - Email Spam Filtering 
+    - SMS Spam Filtering 
+
+Visualization
+    - Exploring Different Visualization Libraries
+
+Generic
+    - Baseline Machine Learning Algorithm
+        - Random Rule Algorithm 
+        - Zero Rule Algorithm
+    - Types of Distance used in Machine Learning Algorithms 
+    - Sequence Vectors 
+    - Types of Bias
+
+
