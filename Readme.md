@@ -1,28 +1,28 @@
 # Machine Learning Concepts and Algorithms
 
-Classification Techniques
+- Classification Techniques
     - KNN Algorithm
     - K Means Classification Algorithm 
     - Naive Bayes Algorithm 
     - Logistic Regression
     - Decision Trees
 
-Natural Language Processing 
+- Natural Language Processing 
     - Bag of Words Model 
     - N-Gram Model
     - Text Classification 
 
-Scraping 
+- Scraping 
     - Scraping Images
 
-Spam Filtering
+- Spam Filtering
     - Email Spam Filtering 
     - SMS Spam Filtering 
 
-Visualization
+- Visualization
     - Exploring Different Visualization Libraries
 
-Generic
+- Generic
     - Baseline Machine Learning Algorithm
         - Random Rule Algorithm 
         - Zero Rule Algorithm
