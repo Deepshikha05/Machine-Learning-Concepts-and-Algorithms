@@ -7,7 +7,6 @@
     - Logistic Regression
     - Decision Trees
     - Random Forest
-    - SVM
 
 - Natural Language Processing 
     - Bag of Words Model 
