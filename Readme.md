@@ -6,7 +6,6 @@
     - Naive Bayes Algorithm 
     - Logistic Regression
     - Decision Trees
-    - Random Forest
 
 - Natural Language Processing 
     - Bag of Words Model 
