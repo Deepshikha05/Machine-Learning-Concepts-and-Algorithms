@@ -11,7 +11,8 @@
     - Bag of Words Model 
     - N-Gram Model
     - Text Classification 
-
+    - Word2Vec
+    
 - Scraping 
     - Scraping Images
 
